@@ -1,4 +1,4 @@
-# dmytro_superset_vue
+# Apache Superset dashboard embedding for vue2
 
 ## Project setup
 ```
